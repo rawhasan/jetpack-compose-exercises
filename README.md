@@ -11,6 +11,7 @@ Exercise projects I've done while learning native Android development with Kotli
     <img src="https://user-images.githubusercontent.com/67064997/127823753-36363485-9b20-4dbb-a436-996abe6b6a2c.png" width="200" />
 </p>
 
+<br />
 
 ## #2. [Viewmodel Sharing](https://github.com/rawhasan/compose-exercise-viewmodel-sharing)
 - Sharing a `View Model` between composables inside Jetpack Compose Navigation.
@@ -23,3 +24,13 @@ Exercise projects I've done while learning native Android development with Kotli
     <img src = "https://user-images.githubusercontent.com/67064997/127863143-71ffb8b8-46dc-41fd-9cca-0f5c025ddd46.png" width="200" />
     <img src="https://user-images.githubusercontent.com/67064997/127863134-73b5f22f-f4ea-4352-b23e-fe93b827883e.png" width="200" />
 </p>
+
+<br />
+
+## #3. [Lazy Column Scrolling](https://github.com/rawhasan/compose-exercise-lazy-column-scrolling)
+- Display a simple scrollable list using Lazy Column.
+- Loading images from internet using the Coil library.
+- Applying text and background color.
+
+<br />
+<img src="https://user-images.githubusercontent.com/67064997/127976999-1317bbfb-d9c9-487d-b5d8-3d48c0921c25.png" width="200" />
