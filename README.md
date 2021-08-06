@@ -69,7 +69,7 @@ Exercise projects I've done while learning native Android development with Kotli
 - Input validation (name & age).
 - Replace multiple spaces from an input.
 - Capitalize first character of each word in a sentence.
-- Hide keyboard on completing input successfully.  
+- Hiding keyboard on enter press and on button click.  
 
 <br />
 
