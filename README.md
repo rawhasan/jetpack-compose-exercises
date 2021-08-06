@@ -61,3 +61,16 @@ Exercise projects I've done while learning native Android development with Kotli
   <img src="https://user-images.githubusercontent.com/67064997/128351895-ab210e56-ae71-44d8-ad76-44740ef43c4a.png" width="200" />  
 </p>
 
+<br />
+
+## #5. [State Hoisting](https://github.com/rawhasan/compose-exercise-state-hoisting)
+- Implementing state hoisting to manage a list of people and their age.
+- Handle click on a row by removing the item from a LazyColumn.
+- Input validation (name & age).
+- Replace multiple spaces from an input.
+- Capitalize first character of each word in a sentence.
+- Hide keyboard on completing input successfully.  
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/67064997/128541787-6ea0ee16-d041-4059-bf47-87a078d3be52.png" width="200" />
