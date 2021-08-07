@@ -70,6 +70,7 @@ Exercise projects I've done while learning native Android development with Kotli
 - Replace multiple spaces from an input.
 - Capitalize first character of each word in a sentence.
 - Hiding keyboard on enter press and on button click.  
+- Generating unique ID as model field.
 
 <br />
 
