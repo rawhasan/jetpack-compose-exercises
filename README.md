@@ -78,7 +78,7 @@ Exercise projects I've done while learning native Android development with Kotli
 
 <br />
 
-## #6. [Compose Exercise: LazyVerticalGrid](https://github.com/rawhasan/compose-exercise-lazy-vertical-grid)
+## #6. [LazyVerticalGrid](https://github.com/rawhasan/compose-exercise-lazy-vertical-grid)
 - Making a grid layout using the experimental LazyVerticalGrid composable.
 - Making a column scrollable vertically.
 - Using Scaffold with TopAppBar and NavHost.
