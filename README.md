@@ -83,7 +83,7 @@ Exercise projects I've done while learning native Android development with Kotli
 - Making a column scrollable vertically.
 - Using Scaffold with TopAppBar and NavHost.
 - Navigation back button on TopAppBar.
-- Change TopAppBar title dynamically in different screens.
+- Change TopAppBar title dynamically in different screens (using a shared view model).
 
 <br />
 
