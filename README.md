@@ -109,3 +109,13 @@ Exercise projects I've done while learning native Android development with Kotli
   <img src="https://user-images.githubusercontent.com/67064997/129017029-2e29ed19-3ba5-4c45-8d17-d6310165b5c9.png" width="200" />  
   <img src="https://user-images.githubusercontent.com/67064997/129017026-4e7b8a3d-3e5f-40e2-b041-c32880a9e837.png" width="200" />
 </p>
+
+<br />
+
+## #8. [Room Basics](https://github.com/rawhasan/compose-exercise-room-basics)
+- Add, display, and delete data from a Room database using Jetpack Compose.
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/67064997/129222172-8d336785-9dce-446a-a388-65b176ada993.png" width="200" />
+
