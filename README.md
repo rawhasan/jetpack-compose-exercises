@@ -113,9 +113,14 @@ Exercise projects I've done while learning native Android development with Kotli
 <br />
 
 ## #8. [Room Basics](https://github.com/rawhasan/compose-exercise-room-basics)
-- Add, display, and delete data from a Room database using Jetpack Compose.
+- Add, show, edit, and delete data from a Room database using Jetpack Compose.
+- TextField background color change.
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/67064997/129222172-8d336785-9dce-446a-a388-65b176ada993.png" width="200" />
+- [ ] BUG: Deleting a word while multiple edit forms are open shows stale data on the edit forms.
+- [ ] TODO: Close all open edit forms on clicking any Update or Delete button.
 
+<br />
+
+<img src="https://user-images.githubusercontent.com/67064997/129380620-aedce818-05e1-4c6d-9b9d-66e85bf072de.png" width="200" />
