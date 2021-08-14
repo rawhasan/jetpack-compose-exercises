@@ -115,6 +115,7 @@ Exercise projects I've done while learning native Android development with Kotli
 ## #8. [Room Basics](https://github.com/rawhasan/compose-exercise-room-basics)
 - Add, show, edit, and delete data from a Room database using Jetpack Compose.
 - TextField background color change.
+- Keep only one edit form open at a time.
 
 <br />
 
