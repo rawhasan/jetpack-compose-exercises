@@ -119,9 +119,4 @@ Exercise projects I've done while learning native Android development with Kotli
 
 <br />
 
-- [ ] BUG: Deleting a word while multiple edit forms are open shows stale data on the edit forms.
-- [ ] TODO: Close all open edit forms on clicking any Update or Delete button.
-
-<br />
-
 <img src="https://user-images.githubusercontent.com/67064997/129380620-aedce818-05e1-4c6d-9b9d-66e85bf072de.png" width="200" />
