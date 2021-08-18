@@ -120,3 +120,20 @@ Exercise projects I've done while learning native Android development with Kotli
 <br />
 
 <img src="https://user-images.githubusercontent.com/67064997/129380620-aedce818-05e1-4c6d-9b9d-66e85bf072de.png" width="200" />
+
+
+## #9. [Room CRUD](https://github.com/rawhasan/compose-exercise-room-crud)
+- Scaffold with TopAppBar and FAB.
+- Set title dynamically from different screens by raising event.
+- Turn on/off FAB in different screens by raising event.
+- Show alert dialog to confirm an action.
+
+<br />
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/67064997/129905189-628faa43-df63-40f8-b9c1-37ff41d56356.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/67064997/129905197-73cfdb03-dfdc-4c1c-9c19-4258a948595f.png" width="200" />  
+  <img src="https://user-images.githubusercontent.com/67064997/129905201-ec2fe7a4-0d74-4770-b32f-ac238440cca1.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/67064997/129905203-b3836041-6dbf-4b19-84e6-12ba31bd0f51.png" width="200" />
+</p>
+
