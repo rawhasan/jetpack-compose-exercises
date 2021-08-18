@@ -121,6 +121,7 @@ Exercise projects I've done while learning native Android development with Kotli
 
 <img src="https://user-images.githubusercontent.com/67064997/129380620-aedce818-05e1-4c6d-9b9d-66e85bf072de.png" width="200" />
 
+<br />
 
 ## #9. [Room CRUD](https://github.com/rawhasan/compose-exercise-room-crud)
 - Scaffold with TopAppBar and FAB.
