@@ -138,3 +138,23 @@ Exercise projects I've done while learning native Android development with Kotli
   <img src="https://user-images.githubusercontent.com/67064997/129905203-b3836041-6dbf-4b19-84e6-12ba31bd0f51.png" width="200" />
 </p>
 
+<br />
+
+## #10. [Retrofit Basics](https://github.com/rawhasan/compose-exercise-retrofit-basics)
+- Call an external API using the Retrofit library and get the returned JSON.
+- Handle loading/error/done status of the API call.
+- Use query to filter the results of the API call.
+- Convert JSON to Kotlin object using the Moshi library.
+- Display images from remote URLs using the Coil library.
+- Replace part of a string with a new value.
+- Custom property on a data class.
+- Currency format from number.
+- Get color from hex code.
+- Dropdown menu on TopAppBar (options menu).
+
+<br />
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/67064997/130318548-b76396d4-b792-4b66-9e7c-663f95e5e059.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/67064997/130318552-70340799-a2d4-4c54-a922-bac9ac3fb5a4.png" width="200" />  
+</p>
