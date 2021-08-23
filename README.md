@@ -1,5 +1,5 @@
 # Jetpack Compose Exercises
-Exercise projects I've done while learning native Android development with Kotlin and Jetpack Compose. Can help anyone who is just starting to learn Android development with Kotlin.
+Exercise projects implementing different areas of native Android development with Kotlin and Jetpack Compose. Can help anyone who is just starting to learn Android development with Kotlin.
 
 ## #1. [Basic Navigation](https://github.com/rawhasan/compose-exercise-navigation-basics)
 - Simple navigation between two screens with passing values using Jetpack Compose.
