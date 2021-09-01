@@ -161,18 +161,20 @@ A group of exercise projects implementing different areas of native Android deve
 
 <br />
 
-## #11. [Compose Exercise: Offline Caching](https://github.com/rawhasan/compose-exercise-offline-caching)
+## #11. [Offline Caching](https://github.com/rawhasan/compose-exercise-offline-caching)
 This project demonstrates the offline caching of REST API data in the local database. It fetches earthquake data from the United States Geological Survey department's server using REST API, stores it on the local database, and displays it. 
 
 Data is filtered to show only the earthquakes of 4 magnitudes or higher, with a 400 km radius from the Bangladeshi capital Dhaka, in the past 12 months. 
 
-Every time the app is opened, it checks for any new earthquake data on the server that is more recent than locally stored. If any new data is found, it fetches all the data, deletes everything from the database, and stores the latest data for displaying.
+Every time the app is opened, it checks for any new earthquake data on the server that is more recent than locally stored. If any new data is found, it fetches all the data, deletes everything from the database, and stores the latest data for displaying. Also sync data once in a day by running a background work using WorkManager.
 
-## Takeways
+## Takeaways
 - Fetch data from API using the Retrofit library.
 - Convert JSON data to Kotlin objects using the Moshi library.
 - Cache all data from API to local database and display from there.
+- Sync data once in a day by running background work using WorkManager.
 - Date/Time formatting from Unix Epoch (Util.kt).
+- Support `java.time` API (26+) in legacy projects (21).
 - Splitting string to a list of different parts (Util.kt).
 - Generating background color conditionally (Util.kt).
 - Subtract 1 year from today.
