@@ -80,7 +80,7 @@ A group of exercise projects implementing different areas of native Android deve
 
 ## #6. [LazyVerticalGrid](https://github.com/rawhasan/compose-exercise-lazy-vertical-grid)
 - Making a grid layout using the experimental LazyVerticalGrid composable.
-- Making a column scrollable vertically.
+- Column vertical scroll.
 - Using Scaffold with TopAppBar and NavHost.
 - Navigation back button on TopAppBar.
 - Change TopAppBar title dynamically in different screens (using a shared view model).
