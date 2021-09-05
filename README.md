@@ -188,3 +188,17 @@ Every time the app is opened, it checks for any new earthquake data on the serve
   <img src="https://user-images.githubusercontent.com/67064997/131287982-22f30009-7d1b-4e13-99a6-9513f3dcee38.png" width="200" />  
 </p>
 
+<br />
+
+## #12. [Ad Network](https://github.com/rawhasan/compose-exercise-ad-network)
+Display AdMob ads on Android apps using Jetpack Compose.
+
+## Takeaways
+- Show AdMob traditional banner, adaptive banner, and inline adaptive banner.
+- Show AdMob interstitial ad on button click from a composable.
+- Extension function to get the current activity from any composable.
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/67064997/132116774-212ac4b4-0e3e-4886-86f8-59a925de972f.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/67064997/132116776-9aa0ba07-d99e-4690-a126-e14e55703c3d.png" width="200" />  
+</p>
