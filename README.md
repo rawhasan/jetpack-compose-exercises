@@ -202,3 +202,13 @@ Display AdMob ads on Android apps using Jetpack Compose.
   <img src="https://user-images.githubusercontent.com/67064997/132116774-212ac4b4-0e3e-4886-86f8-59a925de972f.png" width="200" />
   <img src="https://user-images.githubusercontent.com/67064997/132116776-9aa0ba07-d99e-4690-a126-e14e55703c3d.png" width="200" />  
 </p>
+
+<br />
+
+## #13. [Notifications](https://github.com/rawhasan/compose-exercise-notifications)
+Show different types of notifications using Jetpack Compose.
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/67064997/132974053-6b1961d5-dbe7-4d53-8a17-eb0d4e9d5cd6.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/67064997/132974054-497f32b6-0bb2-4b44-b2b4-952da45f0568.png" width="200" />  
+</p>
